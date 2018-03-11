@@ -1,7 +1,7 @@
 import createStore from "unistore";
 import devtools from "unistore/devtools";
 
-const initialStore = {
+const initialState = {
   hotspots: [
     {
       id: 1,
